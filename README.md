@@ -9,6 +9,9 @@
 <br />
 
 ### - Languages and Tools...
-
-<p align="center">
-</p>
+![HTML Badge](https://img.shields.io/badge/html-black?style=flat-square)
+![CSS Badge](https://img.shields.io/badge/css-black?style=flat-square)
+![JS Badge](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=yellow)
+![REACT Badge](https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=blue)
+![REDUX Badge](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux&logoColor=blue)
+![GRAHPQL Badge](https://img.shields.io/badge/graph--ql-black?style=flat-square&logo=graphql&logoColor=blue)
