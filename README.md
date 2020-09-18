@@ -5,6 +5,15 @@
   </div>
                                                 
 ![gangchaeng2's github stats](https://github-readme-stats.vercel.app/api?username=gangchaeng2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br />
+
+```javascript
+const bigshine = {
+  hobby: ['football', 'sleep', 'sing'],
+  code: ['javascript', 'typescript', 'html', 'css', 'java'],
+  tools: ['react', 'redux', 'styled-components'],
+}
+```
 
 <br />
 
