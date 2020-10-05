@@ -21,6 +21,7 @@ const bigshine = {
 ![HTML Badge](https://img.shields.io/badge/html-black?style=flat-square&logo=html5&logoColor=%23E34F26)
 ![CSS Badge](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=%231572B6)
 ![JS Badge](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=yellow)
+![TYPESCRIPT Badge](https://img.shields.io/badge/type--script-black?style=flat-square&logo=typescript&logoColor=%232a6a9e)
 ![REACT Badge](https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=blue)
 ![REDUX Badge](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux&logoColor=%23764ABC)
 ![GRAHPQL Badge](https://img.shields.io/badge/graph--ql-black?style=flat-square&logo=graphql&logoColor=%23E10098)
